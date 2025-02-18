@@ -34,7 +34,7 @@ Follow these steps to get your **Copy trading Bot** up and running!
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/copy-trading-bot
+   git clone https://github.com/yourusername/Solan-Copy-Trading-Bot-Rust
    ```
 
 2. **Install Dependencies**:
@@ -42,7 +42,7 @@ Follow these steps to get your **Copy trading Bot** up and running!
    Navigate to the project directory and run the following command:
 
    ```bash
-   cd copy-trading-bot
+   cd Solan-Copy-Trading-Bot-Rust
    cargo build
    ```
 
